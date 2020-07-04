@@ -1,0 +1,7 @@
+name: CommandBlocker
+version: ${project.version}
+main: me.andarguy.commandblocker.CommandBlocker
+api-version: 1.15
+authors: [AndarGuy]
+description: Go away out of my plugins!
+website: andarguy.me

@@ -1,0 +1,12 @@
+msg:
+  restrictedCommand: "This command is not allowed!"
+groups:
+  group1:
+    permission: commandblocker.allowcommands.group1
+    commands:
+      - login
+      - l
+  group2:
+    permission: commandblocker.allowcommands.group2
+    commands:
+      - help
